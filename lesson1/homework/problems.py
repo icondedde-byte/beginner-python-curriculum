@@ -1,6 +1,7 @@
 # Problem 1
 # Create a variable for your lucky number and print it.
-
+Lucky_number = 4
+print (lucky_number)
 
 
 # Problem 2
